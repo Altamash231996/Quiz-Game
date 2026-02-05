@@ -1,42 +1,42 @@
 
 const question = [
     {
-        question: "Which is the largest ANimal in the WOrld?",
+        question: "What is JavaScript??",
         answer:[
-                {text: "Shark", correct: false},
-                {text: "Blue Whale", correct: true},
-                {text: "Elephant", correct: false},
-                {text: "Giraffe", correct: false},
+                {text: "JavaScript is a scripting language used to make the website interactive", correct: true},
+                {text: "Blue  JavaScript is an assembly language used to make the website interactive", correct: false},
+                {text: "EleJavaScript is a compiled language used to make the website interactive", correct: false},
+                {text: "None of the mentioned", correct: false},
 
         ]
     },
     {
         
-        question: "Which is the largest ANimal in the WOrld",
+        question: "What is DOM in HTML?",
         answer:[
-            {text: "Shark", correct: false},
-                {text: "Blue Whale", correct: true},
-                {text: "Elephant", correct: false},
-                {text: "Giraffe", correct: false},
+            {text: "Language dependent application programmingk", correct: false},
+                {text: " Convention for representing and interacting with objects in html documents", correct: true},
+                {text: "Hierarchy of objects in ASP.NET", correct: false},
+                {text: "Application programming interface", correct: false},
         ]
     },
     {
         
-        question: "Which is the largest ANimal in the WOrld",
+        question: " Which of the following CSS selectors are used to specify a group of elements??",
         answer:[
-            {text: "Shark", correct: false},
-                {text: "Blue Whale", correct: true},
-                {text: "Elephant", correct: false},
-                {text: "Giraffe", correct: false},
+            {text: "Both Class and Tag", correct: false},
+                {text: " Tag", correct: false},
+                {text: "Class", correct: true},
+                {text: "ID", correct: false},
         ]
     },
     {
-        question: "Which is the largest ANimal in the WOrld",
+        question: "Which of the following is not the property of the CSS box model?",
         answer:[
-            {text: "Shark", correct: false},
-                {text: "Blue Whale", correct: true},
-                {text: "Elephant", correct: false},
-                {text: "Giraffe", correct: false},
+            {text: "Margin", correct: false},
+                {text: "Height", correct: false},
+                {text: "Width", correct: false},
+                {text: "Color", correct: true},
         ]
 
 
@@ -44,12 +44,12 @@ const question = [
             },
             {
                 
-        question: "Which is the largest ANimal in the WOrld",
+        question: "Which of the following is correct about JavaScript?",
         answer:[
-            {text: "Shark", correct: false},
-                {text: "Blue Whale", correct: true},
-                {text: "Elephant", correct: false},
-                {text: "Giraffe", correct: false},
+            {text: "JavaScript is an Object-Oriented language", correct: false},
+                {text: " JavaScript is an Object-Based language", correct: true},
+                {text: " JavaScript is Assembly-language", correct: false},
+                {text: "JavaScript is a High-level language", correct: false},
 
             ]
             }
